@@ -1,0 +1,7 @@
+instances:
+  - name: kib
+    dns:
+      - kib
+      - localhost
+    ip:
+      - 127.0.0.1
